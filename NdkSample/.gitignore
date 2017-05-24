@@ -7,6 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+app/libs/armeabi-v7a/
 
 *.apk
 *.ap_
@@ -28,6 +29,7 @@ proguard/
 *.iws
 .idea/
 .gradle/
+gradle/
 app/.gradle/
 .idea/libraries
 .idea/workspace.xml
